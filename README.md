@@ -29,9 +29,17 @@ My favorite language is `Python`.
 
 And some more... (⁠>⁠0⁠<⁠；⁠)
 
-### Contacts 🗨️
+### Status 🌐
+
+![stat-infos](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veha0001&theme=tokyonight)
+
+![stat-tops](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veha0001&theme=tokyonight)
+
+### Contacts 💬
 
 <p align="center">
   <a href="https://discord.com/users/897973587468767252"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
   <a href="https://matrix.to/#/@vehalv:matrix.org"><img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" alt="matrix" /></a>
 </p>
+
+![line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
