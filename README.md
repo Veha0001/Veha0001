@@ -1,28 +1,36 @@
 ## Hello there 👋
 
-You are awesome <⁠(⁠￣⁠︶⁠￣⁠)⁠>
+You are awesome, <⁠(⁠￣⁠︶⁠￣⁠)⁠>
 
 ![:veha0001](https://count.getloli.com/@:veha0001?name=%3Aveha0001&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
-Welcome to my GitHub (⁠ ⁠╹⁠▽⁠╹⁠ ⁠)
+Welcome to my GitHub. (⁠ ⁠╹⁠▽⁠╹⁠ ⁠)
 
 ## About Me
+
+I like to watch **Anime** and play **Rhythm Games**.
+
+### Coding
+
+I like `Python`
 
 Although I haven't learned much about programming languages yet, I'm actively learning.
 
 ---
 
-### Programing skills 
+### Programing skills
 
-I like `Python`
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+And some more... (⁠>⁠0⁠<⁠；⁠)
 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### Contacts
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<p align="center">
+  <a href="https://discord.com/users/897973587468767252"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
+  <a href="https://matrix.to/#/@vehalv:matrix.org"><img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" alt="matrix" /></a>
+</p>
