@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hello there 👋
+
+![:veha0001](https://count.getloli.com/@:veha0001?name=%3Aveha0001&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
+## About Me
+
+Although I haven't learned much about programming languages yet, I'm actively learning.
+
+---
+
+### Programing skills 
+
+I like `Python`
+
 
 <!--
 **Veha0001/Veha0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
