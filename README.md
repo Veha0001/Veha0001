@@ -1,24 +1,25 @@
 ## Hello there 👋
 
-You are awesome, <⁠(⁠￣⁠︶⁠￣⁠)⁠>
+You are awesome! <⁠(⁠￣⁠︶⁠￣⁠)⁠>
 
 ![:veha0001](https://count.getloli.com/@:veha0001?name=%3Aveha0001&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 Welcome to my GitHub. (⁠ ⁠╹⁠▽⁠╹⁠ ⁠)
 
-## About Me
+## About Me 🍁
 
-I like to watch **Anime** and play **Rhythm Games**.
+I enjoy
 
-### Coding
+- Watching **Anime**
+- Playing **Rhythm Games**
 
-I like `Python`
+### Coding ☕
 
-Although I haven't learned much about programming languages yet, I'm actively learning.
+My favorite language is `Python`.
 
 ---
 
-### Programing skills
+### Programing skills 🏂
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
@@ -28,7 +29,7 @@ Although I haven't learned much about programming languages yet, I'm actively le
 
 And some more... (⁠>⁠0⁠<⁠；⁠)
 
-### Contacts
+### Contacts 🗨️
 
 <p align="center">
   <a href="https://discord.com/users/897973587468767252"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
