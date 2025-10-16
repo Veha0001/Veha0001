@@ -1,25 +1,25 @@
-## Hello there 👋
+<h2 align="center">Hello there 👋</h2>
 
-You are awesome! <⁠(⁠￣⁠︶⁠￣⁠)⁠>
+<div align="center">
+  <p>You are awesome! <⁠(⁠￣⁠︶⁠￣⁠)⁠></p>
+  <img src="https://count.getloli.com/@:veha0001?name=%3Aveha0001&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt=":veha0001"/>
+  <p>Welcome to my GitHub. (⁠ ⁠╹⁠▽⁠╹⁠ ⁠)</p>
+</div>
 
-![:veha0001](https://count.getloli.com/@:veha0001?name=%3Aveha0001&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
-
-Welcome to my GitHub. (⁠ ⁠╹⁠▽⁠╹⁠ ⁠)
-
-## About Me 🍁
+<h3 align="center">About Me 🍁</h3>
 
 Hey <img src="https://undertale.com/favicon.ico" width="12"/>, I'm Veha.
 
-I enjoy
-
+I enjoy 
 - Watching **Anime**
 - Playing **Rhythm Games**
 
-### Coding ☕
+---
+
+<h3 align="center">Coding ☕</h3>
 
 My favorite language is `Python`.
 
----
 
 ### Programing skills 🏂
 
@@ -32,16 +32,21 @@ My favorite language is `Python`.
 And some more... (⁠>⁠0⁠<⁠；⁠)
 
 ### Status 🌐
-
+  
 ![stat-infos](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veha0001&theme=tokyonight)
 
-![stat-tops](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veha0001&theme=tokyonight)
+| ![stat-tops](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veha0001&theme=tokyonight) |![stat-aka](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Veha0001&theme=tokyonight) |
+| --- | --- |
 
-### Contact Me 💬
+
+<h3 align="center">Contact Me 💬</h3>
 
 <p align="center">
   <a href="https://x.com/LongVE980?s=09"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://matrix.to/#/@vehalv:matrix.org"><img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" alt="matrix" /></a>
 </p>
 
-![end-line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="end-line" />
+</p>
+
