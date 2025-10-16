@@ -38,8 +38,8 @@ And some more... (⁠>⁠0⁠<⁠；⁠)
 ### Contacts 💬
 
 <p align="center">
-  <a href="https://discord.com/users/897973587468767252"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
+  <a href="https://x.com/LongVE980?s=09"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://matrix.to/#/@vehalv:matrix.org"><img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" alt="matrix" /></a>
 </p>
 
-![line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+![end-line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
