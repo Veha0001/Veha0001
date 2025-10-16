@@ -8,6 +8,8 @@ Welcome to my GitHub. (⁠ ⁠╹⁠▽⁠╹⁠ ⁠)
 
 ## About Me 🍁
 
+Hey <img src="https://undertale.com/favicon.ico" width="12"/>, I'm Veha.
+
 I enjoy
 
 - Watching **Anime**
@@ -35,7 +37,7 @@ And some more... (⁠>⁠0⁠<⁠；⁠)
 
 ![stat-tops](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veha0001&theme=tokyonight)
 
-### Contacts 💬
+### Contact Me 💬
 
 <p align="center">
   <a href="https://x.com/LongVE980?s=09"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
