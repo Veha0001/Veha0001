@@ -1,8 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD013 -->
-# Hello there 👋
-
-<h2 align="center">Hello there 👋</h2>
+<h1 align="center">Hello there 👋</h1>
 
 <div align="center">
   <p>You are awesome! <⁠(⁠￣⁠︶⁠￣⁠)⁠></p>
