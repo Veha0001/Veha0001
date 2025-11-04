@@ -1,4 +1,6 @@
-## Hello there 👋
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD013 -->
+# Hello there 👋
 
 You are awesome! <⁠(⁠￣⁠︶⁠￣⁠)⁠>
 
@@ -8,12 +10,11 @@ Welcome to my GitHub. (⁠ ⁠╹⁠▽⁠╹⁠ ⁠)
 
 ## About Me 🍁
 
-Hey <img src="https://undertale.com/favicon.ico" width="12"/>, I'm Veha.
+Hey <img src="https://undertale.com/favicon.ico" alt="heart" width="12"/>, I'm Veha.
 
 I enjoy
 
-- Watching **Anime**
-- Playing **Rhythm Games**
+[![Hobby Text](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=F73673&width=435&separator=%3C&lines=Watching+YouTube+Anime%3CPlay+Videogames+(Rhythm%2C+MOBA%2C+Sandbox)%3C+And+writing+codes...+(%E2%81%A0%EF%BF%A3%E2%81%A0%E3%83%98%E2%81%A0%EF%BF%A3%E2%81%A0;%E2%81%A0))](https://git.io/typing-svg)
 
 ### Coding ☕
 
