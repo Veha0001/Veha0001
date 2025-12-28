@@ -10,11 +10,17 @@
 
 <h3 align="center">About Me 🍁</h3>
 
-Hey <img src="https://undertale.com/favicon.ico" alt="heart" width="12"/>, I'm Veha.
+<details>
+  <summary align="center">Hey <img src="https://undertale.com/favicon.ico" alt="heart" width="12"/> I'm Veha.</summary>
+  <p align="center">
+    <!--Hmmm...-->
+    <img src="https://undertale.com/alarmclock/flowey/flowey-06-11.png" alt="Flowey" width="300"/>
+  </p>
+</details>
 
-I enjoy
+<p align="center">I enjoy</p>
 
-[![Hobby Text](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=F73673&width=435&separator=%3C&lines=Watching+YouTube+Anime%3CPlay+Videogames+(Rhythm%2C+MOBA%2C+Sandbox)%3C+And+writing+codes...+(%E2%81%A0%EF%BF%A3%E2%81%A0%E3%83%98%E2%81%A0%EF%BF%A3%E2%81%A0;%E2%81%A0))](https://git.io/typing-svg)
+[![Hobby Text](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=F73673&width=435&separator=%3C&lines=Watch+YouTube,+Anime.+Read+Managa...%3CPlay+Videogames+(Rhythm%2C+MOBA%2C+Sandbox)%3C+And+writing+codes...+(%E2%81%A0%EF%BF%A3%E2%81%A0%E3%83%98%E2%81%A0%EF%BF%A3%E2%81%A0;%E2%81%A0))](https://git.io/typing-svg)
 
 ---
 
@@ -22,12 +28,12 @@ I enjoy
 
 My favorite language is `Python`.
 
-## Programing skills 🏂
+## What I might use 🎨
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />
+    <a href="https://github.com/Veha0001">
+    <img src="https://skillicons.dev/icons?i=git,rust,go,html,css,js,ts,nodejs,vite,vue,markdown,linux,bash,py" alt="clues"/>
+  </a>
 </p>
 
 And some more... (⁠>⁠0⁠<⁠；⁠)
@@ -36,7 +42,7 @@ And some more... (⁠>⁠0⁠<⁠；⁠)
   
 ![stat-infos](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veha0001&theme=tokyonight)
 
-| ![stat-tops](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veha0001&theme=tokyonight) |![stat-aka](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Veha0001&theme=tokyonight) |
+| ![stat-tops](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veha0001&theme=tokyonight) | ![stat-aka](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Veha0001&theme=tokyonight) |
 | --- | --- |
 
 <h3 align="center">Contact Me 💬</h3>
