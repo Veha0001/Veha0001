@@ -13,9 +13,8 @@
 <details>
   <summary align="center">Hey <img src="https://undertale.com/favicon.ico" alt="heart" width="12"/> I'm Veha.</summary>
   <p align="center">
-    <!--Hmmm... would you like to play undertale-->
     <br>
-    <img src="https://undertale.com/alarmclock/flowey/flowey-06-11.png" alt="Flowey" width="300"/>
+    <img src="https://undertale.com/alarmclock/flowey/flowey-02-03.png" alt="Flowey" width="300"/>
     <br>
   </p>
 </details>
