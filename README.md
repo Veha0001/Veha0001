@@ -13,14 +13,16 @@
 <details>
   <summary align="center">Hey <img src="https://undertale.com/favicon.ico" alt="heart" width="12"/> I'm Veha.</summary>
   <p align="center">
-    <!--Hmmm...-->
+    <!--Hmmm... would you like to play undertale-->
+    <br>
     <img src="https://undertale.com/alarmclock/flowey/flowey-06-11.png" alt="Flowey" width="300"/>
+    <br>
   </p>
 </details>
 
-<p align="center">I enjoy</p>
+<p align="center">I love and enjoy</p>
 
-[![Hobby Text](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=F73673&width=435&separator=%3C&lines=Watch+YouTube,+Anime.+Read+Managa...%3CPlay+Videogames+(Rhythm%2C+MOBA%2C+Sandbox)%3C+And+writing+codes...+(%E2%81%A0%EF%BF%A3%E2%81%A0%E3%83%98%E2%81%A0%EF%BF%A3%E2%81%A0;%E2%81%A0))](https://git.io/typing-svg)
+[![Hobby Text](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=F73673&width=435&separator=%3C&lines=Watch+YouTube,+Anime.+Read+Manga...%3CPlay+Videogames+(Rhythm%2C+MOBA%2C+Sandbox)%3C+And+writing+codes...+(%E2%81%A0%EF%BF%A3%E2%81%A0%E3%83%98%E2%81%A0%EF%BF%A3%E2%81%A0;%E2%81%A0))](https://git.io/typing-svg)
 
 ---
 
@@ -36,7 +38,7 @@ My favorite language is `Python`.
   </a>
 </p>
 
-And some more... (⁠>⁠0⁠<⁠；⁠)
+And more... (⁠>⁠0⁠<⁠；⁠)
 
 ### Status 🌐
   
